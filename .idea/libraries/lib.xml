@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/okio-1.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreesvg-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/orsonpdf-1.6-eval.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-23.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-configuration-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20140107.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swtgraphics2d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.0.19-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.0.19-demo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis-1.4.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20140107-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pherd-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joda-time-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mbox2-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gs-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.0.19-experimental.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-slf4j-impl-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-maps-services-0.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gs-algo-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gs-ui-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gurobi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/orsoncharts-1.4-eval-nofx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsprit-analysis-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsprit-core-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsprit-examples-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsprit-instances-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsprit-io-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
