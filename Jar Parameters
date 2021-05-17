@@ -1,0 +1,10 @@
+Parameters to be used in the Jar:
+- sol: BS, penalty. Selects the solver.
+- s: graphhopper, local. Selects the source of distance/time matrix.
+- k: String. okSelects the key to be used with the source of distance/time matrix.
+- p: int. Precision of the window.
+- t: long. Time to be used for each iteration of the solver.
+- i: long. Number of iterations to be used by Jsprit.
+- cn: String. Sets a "custom name" to be used as output.
+- inf: false, true. Activate an informer.
+- tsp: int. Load a .TSP instead of a Json with n trucks.
